@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👯  I'm currently working on freelance projects.
-- 
 - 👯 I'm looking to collaborate to open-source projects.
 
 - 📫 How to reach me **sabavatkumar856@gmail.com**
